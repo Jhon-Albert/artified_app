@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "284088427365",
+    "firebase_url": "https://artified-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "artified-firebase",
+    "storage_bucket": "artified-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284088427365:android:c0416de069ea6fecffb78c",
+        "android_client_info": {
+          "package_name": "com.example.le_katsu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzY0fmIxAfx7PfSKkIra1DLWRiqG0eLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284088427365:android:9e799b211c72fbbdffb78c",
+        "android_client_info": {
+          "package_name": "com.example.le_katsu_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzY0fmIxAfx7PfSKkIra1DLWRiqG0eLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284088427365:android:8708976b805c5211ffb78c",
+        "android_client_info": {
+          "package_name": "com.example.le_katsu_app_new_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzY0fmIxAfx7PfSKkIra1DLWRiqG0eLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
