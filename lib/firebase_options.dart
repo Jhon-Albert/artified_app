@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCzImm5PD3TlPytdds1hRzmCN1wbIlSGOs',
+    apiKey: ''//GOOGLE API KEY,
     appId: '1:284088427365:web:a17faceadf38086cffb78c',
     messagingSenderId: '284088427365',
     projectId: 'artified-firebase',
