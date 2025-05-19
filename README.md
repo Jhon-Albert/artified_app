@@ -28,13 +28,13 @@ samples, guidance on mobile development, and a full API reference.
 ##
 
 ### Home
-![Image](https://github.com/user-attachments/assets/579c6a3d-d423-4623-a382-465dd93f1e15)
+![Home](https://github.com/user-attachments/assets/5d437866-e9ac-4707-9832-e7513fcc6e2a)
 
 ### Menu
 ![Menu](https://github.com/user-attachments/assets/c0630e18-f30c-44b9-a509-1eff9165dbfd)
 
 ### History
-![History](https://github.com/user-attachments/assets/5d437866-e9ac-4707-9832-e7513fcc6e2a)
+![History](https://github.com/user-attachments/assets/579c6a3d-d423-4623-a382-465dd93f1e15)
 
 ### Cart
 ![Image](https://github.com/user-attachments/assets/9aace787-cb80-4119-9b75-d844dc9d1568)
