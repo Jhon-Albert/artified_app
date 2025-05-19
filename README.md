@@ -1,6 +1,11 @@
 # le_katsu_app_new
 
-A new Flutter project.
+**Capstone Project – Mobile Application Development (College)**  
+This Flutter project is designed as a modern and elegant food-ordering mobile application. It serves as the final output of a college-level capstone in Mobile App Development, showcasing skills in UI/UX design, Flutter framework usage, and user interaction flows.
+
+One of the standout features of the app is its integration of **Augmented Reality (AR)**, allowing users to **view 3D models of the food items** directly within their environment. This immersive feature enhances user experience and helps customers visualize dishes before placing an order.
+
+---
 
 ## Getting Started
 
