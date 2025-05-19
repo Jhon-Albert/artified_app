@@ -1,6 +1,5 @@
 # ARTIFIED: AN AUGMENTED REALITY FOOD MENU  
-MOBILE APPLICATION WITH NUTRITION INFORMATION  
-AND DATA ANALYTICS FOR LE KATSU MNL 
+MOBILE APPLICATION WITH NUTRITION INFORMATION 
 
 **Capstone Project – Mobile Application Development (College)**  
 This Flutter project is designed as a modern and elegant food-ordering mobile application. It serves as the final output of a college-level capstone in Mobile App Development, showcasing skills in UI/UX design, Flutter framework usage, and user interaction flows.
