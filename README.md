@@ -16,9 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## App UI Preview:
-| Main |
-|-------------------|--------------|
-| ![Main](https://github.com/user-attachments/assets/dcc6dc8a-abf1-44bc-91dc-6cee7c76cef0) |
+### Main
+![Main](https://github.com/user-attachments/assets/dcc6dc8a-abf1-44bc-91dc-6cee7c76cef0)
 
 ##
 ![Main](https://github.com/user-attachments/assets/dcc6dc8a-abf1-44bc-91dc-6cee7c76cef0)
